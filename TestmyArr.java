@@ -2,7 +2,7 @@ package MyCollection;
 
 
 /**
- * Created by Rudniev Oleksandr on 09.11.2016.
+ * Created by Rudniev Oleksandr on 10.11.2016.
  */
 public class TestmyArr {
     public static void main(String[] args) {

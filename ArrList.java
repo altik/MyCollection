@@ -1,7 +1,7 @@
 package MyCollection;
 
 /**
- * Created by Rudniev Oleksandr on 09.11.2016.
+ * Created by Rudniev Oleksandr on 10.11.2016.
  */
 class ArrList<T> implements Ilist<T> {
 
